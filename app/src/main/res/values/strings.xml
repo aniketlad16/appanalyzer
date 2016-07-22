@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">AppAnalyzer</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_icon_description">Application icon</string>
+
+    <string name="app_size_b">%1$.2f B</string>
+    <string name="app_size_kib">%1$.2f KiB</string>
+    <string name="app_size_mib">%1$.2f MiB</string>
+    <string name="app_size_gib">%1$.2f GiB</string>
+
+
+    <string name="FileName">Name : %1$s\n</string>
+    <string name="FileSize">Size : %1$s\n</string>
+    <string name="FileDateModified">Date modified : %1$s %2$s\n</string>
+    <string name="Hash">%1$s checksum : %2$s</string>
+    <string name="but_title_select_file">Click here to select the file to hash</string>
+    <string name="cb_upper_case">Result in upper case</string>
+    <string name="unable_to_calculate">Unable to calculate the checksum of %1$s</string>
+    <string name="wrong_file">The file does not exist</string>
+    <string name="calculate_but">Calculate</string>
+    <string name="clear_but">Clear</string>
+    <string name="copy_but">Copy checksum to clipboard</string>
+    <string name="Ok_but">Ok</string>
+    <string name="Cancel_but">Cancel</string>
+    <string name="Yes_but">Yes</string>
+    <string name="No_but">No</string>
+    <string name="Close_but">Close</string>
+    <string name="copied">Hash copied to clipboard</string>
+    <string name="label_menu_about">About</string>
+    <string name="label_menu_rateit">Rate it</string>
+    <string name="label_menu_help">Help</string>
+    <string name="up_one_level">..</string>
+    <string name="selectedfile_confirmation">Do you want to compute the file %1$s ?</string>
+    <string name="selectedfile_error">%1$s cannot be read !</string>
+    <string name="version">Version</string>
+
+    <string name="subjectline">Droidentify Report</string>
+    <string name="sharevia">Share report via</string>
+
+    <string name="AlgoList">MD5</string>
+    <string name="FilePath">FilePath</string>
+    <string name="Calculating">Calculating&#8230;</string>
+    <string-array name="Algo_Array">
+
+        <item>MD5</item>
+
+    </string-array>
+    <string name="title_activity_intermediate">intermediate</string>
+
+</resources>

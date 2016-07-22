@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Aniket/Downloads/AppAnalyzer-Amendroid/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="/Users/Aniket/Downloads/AppAnalyzer-Amendroid/app/build/intermediates/pre-dexed/debug/classes-d34185adfa426059c763f9e799fef92223be8eb4.jar" />
+    </item>
+    <item
+        jar="/Users/Aniket/Downloads/AppAnalyzer-Amendroid/app/build/intermediates/exploded-aar/com.android.support/design/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/Users/Aniket/Downloads/AppAnalyzer-Amendroid/app/build/intermediates/pre-dexed/debug/classes-b236ec01c199733ffe3d04284d2e224a7134d7c4.jar" />
+    </item>
+    <item
+        jar="/Users/Aniket/Downloads/AppAnalyzer-Amendroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/Aniket/Downloads/AppAnalyzer-Amendroid/app/build/intermediates/pre-dexed/debug/classes-34910a9bf45cb36ba991181c2553fa516a25f3a0.jar" />
+    </item>
+    <item
+        jar="/Users/Aniket/Downloads/AppAnalyzer-Amendroid/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="/Users/Aniket/Downloads/AppAnalyzer-Amendroid/app/build/intermediates/pre-dexed/debug/classes-7a80b47fb00dddcacd675bdd74964769173fa6ae.jar" />
+    </item>
+    <item
+        jar="/Users/Aniket/Downloads/AppAnalyzer-Amendroid/app/build/intermediates/exploded-aar/com.daimajia.swipelayout/library/1.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e84b30031d4bab89a2b5c45af4eb9213828524dd">
+        <dex dex="/Users/Aniket/Downloads/AppAnalyzer-Amendroid/app/build/intermediates/pre-dexed/debug/classes-6c39c34afe2f5633571f7fc41519e90bd0bbd34d.jar" />
+    </item>
+    <item
+        jar="/Users/Aniket/Downloads/AppAnalyzer-Amendroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/Aniket/Downloads/AppAnalyzer-Amendroid/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-de5e455ef3d500ff33f7514e22644b2e2c1a4609.jar" />
+    </item>
+    <item
+        jar="/Users/Aniket/Downloads/AppAnalyzer-Amendroid/app/build/intermediates/exploded-aar/com.hudomju/swipe-to-dismiss-undo/1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c934830482473cb298c02f9eb55da67548b9db40">
+        <dex dex="/Users/Aniket/Downloads/AppAnalyzer-Amendroid/app/build/intermediates/pre-dexed/debug/classes-8dd65efc93d80b5a3f51d91fc5d622eaf979bcac.jar" />
+    </item>
+    <item
+        jar="/Users/Aniket/Downloads/AppAnalyzer-Amendroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/Aniket/Downloads/AppAnalyzer-Amendroid/app/build/intermediates/pre-dexed/debug/classes-1ef00eccb1b4baac994acd16cf7fd843ea47276a.jar" />
+    </item>
+    <item
+        jar="/Users/Aniket/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/Aniket/Downloads/AppAnalyzer-Amendroid/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-f4c1a2a8fac67add7e539d3cd53582776bbee46f.jar" />
+    </item>
+
+</items>
